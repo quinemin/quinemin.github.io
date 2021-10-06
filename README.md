@@ -1,2 +1,0 @@
-# quinemin.github.io
-Site
